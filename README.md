@@ -12,7 +12,7 @@ Simple bot. Another version on python since Deno discord library can't kep the c
 
 2. Run the command
 ```sh
-deno run --allow-read --allow-env --allow-net --watch mods.js
+python main.py
 ```
 ## Overview
 <img src="https://firebasestorage.googleapis.com/v0/b/chatapp-be9bd.appspot.com/o/Screenshot%202022-12-07%20210802.png?alt=media&token=63ec062e-3496-4a55-9c12-e0367990d43b">

@@ -1,5 +1,5 @@
 # Vu-Bot
-Simple bot. Another version on python since Deno discord library can't kep the connection alive for more than 3 hours. This bot is now deployed on EC2 AWS server running as a service worker.
+Simple bot. Another version on python since Deno discord library can't keep the connection alive for more than 3 hours. This bot is now deployed on EC2 AWS server running as a service worker.
 
 ## Commands
 | Command | Arguments | Description |
